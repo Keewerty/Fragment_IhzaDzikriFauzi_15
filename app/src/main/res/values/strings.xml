@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fragment_Ihza Dzikri Fauzi_15</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome,</string>
+    <string name="ihza_dzikri_fauzi">Ihza Dzikri Fauzi</string>
+    <string name="settings">Settings</string>
+    <string name="Notification" />
+    <string name="notification">Notification</string>
+    <string name="log_out">Log out</string>
+    <string name="biodata">Biodata</string>
+    <string name="achievement">Achievement</string>
+    <string name="todo">TODO</string>
+</resources>
